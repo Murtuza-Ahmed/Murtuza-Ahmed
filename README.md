@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Wall of Wander](https://wallofwander-web.surge.sh/)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **murtuza.programmer@gmail.com**
 
