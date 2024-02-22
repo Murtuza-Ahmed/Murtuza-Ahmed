@@ -23,7 +23,6 @@
 
 - ⚡ Fun fact **I am Funny**
 
- ### Blogs posts
 <h3 align="left">Follow Me:</h3>
 <p align="left">
 <a href="https://twitter.com/murtuza ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="murtuza ahmed" height="30" width="40" /></a>
@@ -55,5 +54,6 @@ height="40" /> </a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murtuza-ahmed&show_icons=true&locale=en&layout=compact" alt="murtuza-ahmed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murtuza-ahmed&" alt="murtuza-ahmed" />
+&nbsp;
 <img align="center"src="https://github-readme-stats.vercel.app/api?username=murtuzaahmed&show_icons=true&locale=en" alt="murtuzaahmed" />
 </p>
