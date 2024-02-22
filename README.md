@@ -54,6 +54,6 @@ height="40" /> </a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murtuza-ahmed&show_icons=true&locale=en&layout=compact" alt="murtuza-ahmed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murtuza-ahmed&" alt="murtuza-ahmed" />
-&nbsp;
+<br>
 <img align="center"src="https://github-readme-stats.vercel.app/api?username=murtuzaahmed&show_icons=true&locale=en" alt="murtuzaahmed" />
 </p>
