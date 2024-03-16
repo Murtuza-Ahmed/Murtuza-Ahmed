@@ -6,7 +6,6 @@
 As a fresh web developer with a passion for designing and developing user interfaces, I am currently expanding my skill set to include ReactJS. My proficiency in HTML, CSS, Bootstrap, and JavaScript has allowed me to create visually appealing and highly functional web applications. I am excited about the opportunity to contribute my skills, along with the ongoing learning of ReactJS, to deliver outstanding web solutions that meet user needs and drive business growth.
 
 - 🌱 I’m currently learning **ReactJS [In Progress]**
-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murtuza-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="murtuza-ahmed" /> </p>
 <img align="right" alt="coading" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
