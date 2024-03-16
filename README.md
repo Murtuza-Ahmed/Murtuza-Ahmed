@@ -3,7 +3,6 @@
 <h3 align="center">Web Development Student || Future Full Stack Developer</h3>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murtuza.programmer@gmail.com)
-[![Website Badge](https://https://sheikhportfolio.netlify.app/)](https://https://sheikhportfolio.netlify.app/)
 
 # 💫 About Me:
 👨‍💻As a fresh web developer with a passion for designing and developing user interfaces, 🎓I am currently expanding my skill set to include ReactJS. My proficiency in HTML, CSS, Bootstrap, and JavaScript has allowed me to create visually appealing and highly functional web applications. I am excited about the opportunity to contribute my skills, along with the ongoing learning of ReactJS, to deliver outstanding web solutions that meet user needs and drive business growth.
