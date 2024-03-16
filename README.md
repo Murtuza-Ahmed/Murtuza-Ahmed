@@ -1,23 +1,32 @@
 <!-- # MurtuzaAhmed -->
 <h1 align="center">Hi 👋, I'm Murtuza Ahmed</h1>
 <h3 align="center">Web Development Student || Future Full Stack Developer</h3>
-<img align="right" alt="coading" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=murtuza-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="murtuza-ahmed" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murtuza-ahmed" alt="murtuza-ahmed" /></a> </p>
 
 # 💫 About Me:
 As a fresh web developer with a passion for designing and developing user interfaces, I am currently expanding my skill set to include ReactJS. My proficiency in HTML, CSS, Bootstrap, and JavaScript has allowed me to create visually appealing and highly functional web applications. I am excited about the opportunity to contribute my skills, along with the ongoing learning of ReactJS, to deliver outstanding web solutions that meet user needs and drive business growth.
 
 - 🌱 I’m currently learning **ReactJS [In Progress]**
+- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=murtuza-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="murtuza-ahmed" /> </p>
+<img align="right" alt="coading" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- ⚡ Fun fact **I am Funny**
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murtuza-ahmed" alt="murtuza-ahmed" /></a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/murtuza ahmed" target="blank"><img src="https://img.shields.io/twitter/follow/murtuza ahmed?logo=twitter&style=for-the-badge" alt="murtuza ahmed" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/murtuza ahmed" target="blank"><img src="https://img.shields.io/twitter/follow/murtuza ahmed?logo=twitter&style=for-the-badge" alt="murtuza     
+     ahmed" />
+  </a> 
+</p>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100094099460529) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/murtuza-ahmed-36012628b/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/23172020/murtuza) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/MurtuzaAhm87472) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Murtuza-Ahmed)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100094099460529) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/murtuza-ahmed-36012628b/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/23172020/murtuza)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/MurtuzaAhm87472) 
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Murtuza-Ahmed)
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -48,12 +57,3 @@ As a fresh web developer with a passion for designing and developing user interf
 
 <!-- ### 😂 Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 200px;"/> -->
-
-
-
-![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535) ![Bootstrap](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=GitHub&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
-</div>
