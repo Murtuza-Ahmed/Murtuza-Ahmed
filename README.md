@@ -1,12 +1,20 @@
 <!-- # MurtuzaAhmed -->
-<h1 align="center">Hi 👋, I'm Murtuza Ahmed</h1>
+<h1 align="center">Hi 👋, I'm @Murtuza Ahmed</h1>
 <h3 align="center">Web Development Student || Future Full Stack Developer</h3>
 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murtuza.programmer@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://pytopia.ai)
+
 # 💫 About Me:
-As a fresh web developer with a passion for designing and developing user interfaces, I am currently expanding my skill set to include ReactJS. My proficiency in HTML, CSS, Bootstrap, and JavaScript has allowed me to create visually appealing and highly functional web applications. I am excited about the opportunity to contribute my skills, along with the ongoing learning of ReactJS, to deliver outstanding web solutions that meet user needs and drive business growth.
+👨‍💻As a fresh web developer with a passion for designing and developing user interfaces, 🎓I am currently expanding my skill set to include ReactJS. My proficiency in HTML, CSS, Bootstrap, and JavaScript has allowed me to create visually appealing and highly functional web applications. I am excited about the opportunity to contribute my skills, along with the ongoing learning of ReactJS, to deliver outstanding web solutions that meet user needs and drive business growth.
 
 - 🌱 I’m currently learning **ReactJS [In Progress]**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=murtuza-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="murtuza-ahmed" /> </p>
+<br>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=murtuzaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="murtuzaahmed" /> </p>
+
+[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
+
 <img align="right" alt="coading" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> 
@@ -53,6 +61,3 @@ As a fresh web developer with a passion for designing and developing user interf
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- ### 😂 Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 200px;"/> -->
