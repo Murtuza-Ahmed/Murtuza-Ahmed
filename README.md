@@ -1,6 +1,6 @@
 <!-- # MurtuzaAhmed -->
 <h1 align="center">Hi 👋, I'm @Murtuza Ahmed</h1>
-<h3 align="center">Web Development Student || Future Full Stack Developer</h3>
+<h3 align="center">🌟 Passionate Web Developer | HTML | CSS | JavaScript | React 🌟</h3>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murtuza.programmer@gmail.com)
 
