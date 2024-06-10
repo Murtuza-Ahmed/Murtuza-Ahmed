@@ -1,11 +1,11 @@
 <!-- # MurtuzaAhmed -->
 <h1 align="center">Hi 👋, I'm @Murtuza Ahmed</h1>
-<h3 align="center">🌟 Front-End Developer | HTML | CSS | JavaScript | React 🌟</h3>
+<h3 align="center"> Front-End Developer | JavaScript | TypeScript | ReactJS </h3>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murtuza.programmer@gmail.com)
 
-# 💫 About Me:
-👨‍💻As a fresh web developer with a passion for designing and developing user interfaces, 🎓I am currently expanding my skill set to include ReactJS. My proficiency in HTML, CSS, Bootstrap, and JavaScript has allowed me to create visually appealing and highly functional web applications. I am excited about the opportunity to contribute my skills, along with the ongoing learning of ReactJS, to deliver outstanding web solutions that meet user needs and drive business growth.
+# About Me:
+As a fresh web developer with a passion for designing and developing user interfaces, 🎓I am currently expanding my skill set to include ReactJS. My proficiency in HTML, CSS, Bootstrap, and JavaScript has allowed me to create visually appealing and highly functional web applications. I am excited about the opportunity to contribute my skills, along with the ongoing learning of ReactJS, to deliver outstanding web solutions that meet user needs and drive business growth.
 
 - 🌱 I’m currently learning **ReactJS [In Progress]**
 <br>
@@ -14,7 +14,7 @@
 
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
 
-<img align="right" alt="coading" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!--<img align="right" alt="coading" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">-->
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murtuza-ahmed" alt="murtuza-ahmed" /></a>
@@ -41,9 +41,9 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
+<!-- ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) -->
 <!-- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) -->
 <!-- ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) -->
 <!-- ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) -->
@@ -58,5 +58,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murtuza-ahmed&" alt="murtuza-ahmed" /></p>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=murtuzaahmed&show_icons=true&locale=en" alt="murtuzaa-hmed" /></p> -->
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
