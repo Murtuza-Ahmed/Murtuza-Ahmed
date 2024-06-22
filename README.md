@@ -5,9 +5,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murtuza.programmer@gmail.com)
 
 # About Me:
-As a fresh web developer with a passion for designing and developing user interfaces, 🎓I am currently expanding my skill set to include ReactJS. My proficiency in HTML, CSS, Bootstrap, and JavaScript has allowed me to create visually appealing and highly functional web applications. I am excited about the opportunity to contribute my skills, along with the ongoing learning of ReactJS, to deliver outstanding web solutions that meet user needs and drive business growth.
+🎓 I'm a web developer passionate about creating user-friendly interfaces. I work with JavaScript, TypeScript, ReactJS, and Next.js. I love learning new technologies and building impactful web applications.
 
-- 🌱 I’m currently learning **ReactJS [In Progress]**
+- 🌱 I’m currently learning **NEXTJS [In Progress]**
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murtuzaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="murtuzaahmed" /> </p>
