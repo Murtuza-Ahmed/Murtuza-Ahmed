@@ -20,11 +20,11 @@ I'm a web developer passionate about creating user-friendly interfaces. I work w
   </a>
 </p>
 
-<p align="left"> 
+<!-- p align="left"> 
   <a href="https://twitter.com/murtuza ahmed" target="blank">
     <img src="https://img.shields.io/twitter/follow/murtuza ahmed?logo=twitter&style=for-the-badge" alt="murtuza-ahmed" />
   </a> 
-</p>
+</p -->
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100094099460529) 
