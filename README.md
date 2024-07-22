@@ -7,12 +7,12 @@
 # About Me:
 I'm a web developer passionate about creating user-friendly interfaces. I work with JavaScript, TypeScript, ReactJS, and Next.js. I love learning new technologies and building impactful web applications.
 
-- 🌱 I’m currently learning **NEXTJS [In Progress]**
+<!-- - 🌱 I’m currently learning **NEXTJS [In Progress]** -->
 <br>
 <br>
-<p align="left"> 
+<!-- p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=murtuzaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="murtuzaahmed" /> 
-</p>
+</p -->
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
