@@ -1,18 +1,29 @@
 <!-- # MurtuzaAhmed -->
 <h1 align="center">Hi 👋, I'm @Murtuza Ahmed</h1>
-<h3 align="center"> MERN Stack Developer </h3>
+<h4 align="center">I’m a MERN Stack Developer leading a team of passionate developers at Suffah Tech, where we build high-quality and performance-driven web applications.</h3>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murtuza.programmer@gmail.com)
-
-# About Me:
-I craft modern, scalable web applications using React, Node.js, MongoDB, and Express. Passionate about creating seamless user experiences and robust backend solutions.
-
-<!-- - 🌱 I’m currently learning **NEXTJS [In Progress]** -->
-<br>
-<br>
-<!-- p align="left"> 
+ <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=murtuzaahmed&label=Profile%20views&color=0e75b6&style=flat" alt="murtuzaahmed" /> 
-</p -->
+</p>
+
+<p align="left"> 
+  <a href="https://twitter.com/murtuza ahmed" target="blank">
+    <img src="https://img.shields.io/twitter/follow/murtuza ahmed?logo=twitter&style=for-the-badge" alt="murtuza-ahmed" />
+  </a> 
+</p>
+
+ - 🔭 I’m currently working on [IMS](https://ims.suffahtech.com/)
+
+- 🌱 I’m currently learning **Python, Agentic AI, NestJS**
+
+- 👨‍💻 All of my projects are available at [https://portfolio-murtuza-ahmed.vercel.app/](https://portfolio-murtuza-ahmed.vercel.app/)
+
+- 💬 Ask me about **JavaScript, TypeScript, NextJS, ReactJS, NodeJS, ExpressJS, MongoDB, Firebas**
+
+- 📫 How to reach me **murtuza.programmer@gmail.com**
+<br>
+<br>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -20,18 +31,7 @@ I craft modern, scalable web applications using React, Node.js, MongoDB, and Exp
   </a>
 </p>
 
-<!-- p align="left"> 
-  <a href="https://twitter.com/murtuza ahmed" target="blank">
-    <img src="https://img.shields.io/twitter/follow/murtuza ahmed?logo=twitter&style=for-the-badge" alt="murtuza-ahmed" />
-  </a> 
-</p -->
-
-## 🌐 Socials:
-<!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100094099460529) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/murtuza-ahmed-36012628b/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/23172020/murtuza)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/MurtuzaAhm87472) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Murtuza-Ahmed) -->
+<h3>Connect with me:</h3>
 <!-- START -->
 <a href="https://dev.to/https://dev.to/murtuzaahm87472" target="_blank">
  <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
@@ -53,83 +53,74 @@ I craft modern, scalable web applications using React, Node.js, MongoDB, and Exp
 </a>  
 <!-- END -->
 
-# 💻 Languages and Tools:
-<!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) -->
-
+<h3>Languages and Tools:</h3>
 <!-- START -->
+<p align="left"> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+</a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+</a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+</a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+</a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> 
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+</a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+</a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+</a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+</a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+</a> 
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+</a> 
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+</a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</a> 
+</p>
 
-<div align="left">  
-<a href="https://www.javascript.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-</a>  
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-</a>  
-<!-- <a href="https://nodejs.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-</a> --> 
-<!-- <a href="https://expressjs.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-</a> --> 
-<a href="https://github.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-</a>  
-<!-- <a href="https://redux.js.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
-</a> --> 
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-</a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-</a>  
-<a href="https://reactjs.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-</a>  
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-</a>  
-<!-- <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
-</a> --> 
-<a href="https://sass-lang.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
-</a>  
-<a href="https://www.apachefriends.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />
-</a>  
-<!-- <a href="https://firebase.google.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
-</a> --> 
-<a href="https://wordpress.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />
-</a>  
-<a href="https://mui.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" />
-</a>  
-<!-- <a href="https://www.tailwindcss.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
-</a> --> 
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-</div>
-
-<!-- </td><td valign="top" width="33%"> -->
+<td valign="top" width="33%"></td>
 <!-- END -->
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murtuza-ahmed&show_icons=true&locale=en&layout=compact" alt="murtuza-ahmed" />
 </p> 
-<div align="left">
+<!-- <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Murtuza&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>   
-<!-- <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murtuza-ahmed&" alt="murtuza-ahmed" />
-</p> -->
+</div> -->
