@@ -13,9 +13,9 @@
   </a> 
 </p>
 
- - 🔭 I’m currently working on [IMS](https://ims.suffahtech.com/)
+<!--  🔭 I’m currently working on [IMS](https://ims.suffahtech.com/) -->
 
-- 🌱 I’m currently learning **Python, PostgreSql, NestJS**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-murtuza-ahmed.vercel.app/](https://portfolio-murtuza-ahmed.vercel.app/)
 
@@ -83,7 +83,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 </a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/> 
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
 </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
