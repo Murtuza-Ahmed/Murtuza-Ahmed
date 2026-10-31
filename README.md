@@ -19,7 +19,7 @@
 
 ###  What I'm doing now
 
--  Currently working on **[E-Commerce (Al-ucaaz)](https://e-commerce-frontend-y813.vercel.app/)** — full-stack store with a NestJS backend, now deploying to AWS EC2 via Docker + GitHub Actions CI/CD
+-  Currently working on **[E-Commerce (Al-ucaaz)](https://d2769orw11r84c.cloudfront.net/)** — full-stack store with a NestJS backend, now deploying to AWS EC2 via Docker + GitHub Actions CI/CD
 -  Recently shipped: backend CI/CD pipeline (GitHub Actions → EC2 Docker deploys), Nginx reverse proxy + SSL, and S3 + CloudFront frontend hosting
 -  Currently learning **Python** (on the road to ML/DL) and **Cybersecurity** (Kali Linux, pentesting fundamentals)
 -  All of my projects are available at **[portfolio-murtuza-ahmed.vercel.app](https://portfolio-murtuza-ahmed.vercel.app/)**
@@ -74,7 +74,7 @@
 | Project | What it is | Links |
 |---|---|---|
 | **Portfolio** | Personal portfolio — Next.js 14, TypeScript, MongoDB, admin panel | [Live](https://portfolio-murtuza-ahmed.vercel.app/) · [Repo](https://github.com/Murtuza-Ahmed/portfolio) |
-| **E-Commerce (Al-ucaaz)** | Full-stack store — React frontend, NestJS backend, Docker + AWS EC2 + CI/CD | [Live](https://e-commerce-frontend-y813.vercel.app/) · [Backend](https://github.com/Murtuza-Ahmed/e-commerce-backend-nestjs) · [Frontend](https://github.com/Murtuza-Ahmed/e-commerce-frontend) |
+| **E-Commerce (Al-ucaaz)** | Full-stack store — React frontend, NestJS backend, Docker + AWS EC2 + CI/CD | [Live](https://d2769orw11r84c.cloudfront.net/) · [Backend](https://github.com/Murtuza-Ahmed/e-commerce-backend-nestjs) · [Frontend](https://github.com/Murtuza-Ahmed/e-commerce-frontend) |
 | **Todo App** | Task manager — NestJS + TypeORM + Neon PostgreSQL, hosted on AWS EC2 (Nginx + SSL) | [Live](https://todo-app-nestjs-frontend.vercel.app/) · [Repo](https://github.com/Murtuza-Ahmed/todo-app-nestjs) |
 
 ---
