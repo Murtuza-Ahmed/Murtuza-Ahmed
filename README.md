@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Murtuza</h1>
+<h1 align="center">Hey, I'm Murtuza</h1>
 
 <p align="center">
   <a href="https://github.com/Murtuza-Ahmed">
@@ -6,22 +6,20 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
-
-<h3 align="center">Full-Stack Developer — I build web apps and ship them to production.</h3>
+<h3 align="center">Full-Stack Developer — building and shipping production web applications.</h3>
 
 <p align="center">
   I'm a MERN Stack Developer working with React, Next.js, Node.js, NestJS, PostgreSQL, and MongoDB.
-  Beyond building apps, I'm now shipping them end-to-end: Docker containers, AWS EC2 servers,
-  Nginx, SSL, and CI/CD pipelines with GitHub Actions. I like solving real-world problems
-  through technology and leveling up every week.
+  My focus is on complete delivery: from application code to Docker containers, AWS EC2 servers,
+  Nginx, SSL, and CI/CD pipelines with GitHub Actions. I enjoy solving real-world problems
+  through technology and building reliable, production-ready software.
 </p>
 
 ---
 
-### 🔭 What I'm doing now
+###  What I'm doing now
 
-- 🔭 Currently working on **[E-Commerce (Al-ucaaz)](https://e-commerce-frontend-y813.vercel.app/)** — full-stack store with a NestJS backend, now deploying to AWS EC2 via Docker + GitHub Actions CI/CD
+-  Currently working on **[E-Commerce (Al-ucaaz)](https://e-commerce-frontend-y813.vercel.app/)** — full-stack store with a NestJS backend, now deploying to AWS EC2 via Docker + GitHub Actions CI/CD
 -  Recently shipped: backend CI/CD pipeline (GitHub Actions → EC2 Docker deploys), Nginx reverse proxy + SSL, and S3 + CloudFront frontend hosting
 -  Currently learning **Python** (on the road to ML/DL) and **Cybersecurity** (Kali Linux, pentesting fundamentals)
 -  All of my projects are available at **[portfolio-murtuza-ahmed.vercel.app](https://portfolio-murtuza-ahmed.vercel.app/)**
@@ -81,7 +79,7 @@
 
 ---
 
-###  GitHub Stats & Trophies
+###  GitHub Stats
 
 <p>
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Murtuza-Ahmed&theme=github_dark&radius=10" alt="Murtuza-Ahmed's Activity Graph" />
@@ -89,15 +87,10 @@
 
 <p>
   <a href="https://github.com/Murtuza-Ahmed">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murtuza-Ahmed&show_icons=true&theme=github_dark&hide_border=true" alt="Murtuza-Ahmed's GitHub Stats" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Murtuza-Ahmed&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
@@ -106,8 +99,3 @@
 <a href="https://www.linkedin.com/in/murtuza-ahmed-36012628b/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Murtuza's LinkedIn" target="_blank"/></a>
 <a href="mailto:murtuza.programmer@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Murtuza's Email"/></a>
 <a href="https://portfolio-murtuza-ahmed.vercel.app/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
-<a href="https://wa.me/923492297626"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Murtuza-Ahmed&style=for-the-badge&color=00FFFF" alt="Profile views" />
-</p>
