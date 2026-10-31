@@ -1,82 +1,94 @@
-<!-- # MurtuzaAhmed -->
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Murtuza</h1>
-<h4 align="center">
- I’m a MERN Stack Developer with experience in building modern web applications using React, Next.js, Node.js, NestJS, Express, PostgreSQL, and MongoDB. I’m passionate about solving real-world problems through technology and continuously expanding my expertise in full-stack development.
-</h3>
+
+<p align="center">
+  <a href="https://github.com/Murtuza-Ahmed">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;NestJS+%26+Node.js;Docker+%26+AWS;CI%2FCD+with+GitHub+Actions" alt="Typing SVG" />
+  </a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
-<p align="left"> 
-  <a href="https://twitter.com/murtuza ahmed" target="blank">
-    <img src="https://img.shields.io/twitter/follow/murtuza ahmed?logo=twitter&style=for-the-badge" alt="murtuza-ahmed" />
-  </a> 
+<h3 align="center">Full-Stack Developer — I build web apps and ship them to production.</h3>
+
+<p align="center">
+  I'm a MERN Stack Developer working with React, Next.js, Node.js, NestJS, PostgreSQL, and MongoDB.
+  Beyond building apps, I'm now shipping them end-to-end: Docker containers, AWS EC2 servers,
+  Nginx, SSL, and CI/CD pipelines with GitHub Actions. I like solving real-world problems
+  through technology and levelling up every week.
 </p>
 
-- 🔭 I’m currently working on [E-Commerce](https://e-commerce-frontend-y813.vercel.app/)
+---
 
-- 🌱 I’m currently learning **Python**
+### 🔭 What I'm doing now
 
-- 👨‍💻 All of my projects are available at [https://portfolio-murtuza-ahmed.vercel.app/](https://portfolio-murtuza-ahmed.vercel.app/)
+- 🔭 Currently working on **[E-Commerce (Al-ucaaz)](https://e-commerce-frontend-y813.vercel.app/)** — full-stack store with a NestJS backend, now deploying to AWS EC2 via Docker + GitHub Actions CI/CD
+- 🚀 Recently shipped: backend CI/CD pipeline (GitHub Actions → EC2 Docker deploys), Nginx reverse proxy + SSL, and S3 + CloudFront frontend hosting
+- 🌱 Currently learning **Python** (on the road to ML/DL) and **Cybersecurity** (Kali Linux, pentesting fundamentals)
+- 👨‍💻 All of my projects are available at **[portfolio-murtuza-ahmed.vercel.app](https://portfolio-murtuza-ahmed.vercel.app/)**
+- 💬 Ask me about **JavaScript, TypeScript, Next.js, React, Node.js, NestJS, Docker, AWS, MongoDB, PostgreSQL**
+- 📫 Reach me at **murtuza.programmer@gmail.com**
 
-- 💬 Ask me about **JavaScript, TypeScript, NextJS, ReactJS, NodeJS, ExpressJS, MongoDB, NestJS**
+---
 
-- 📫 How to reach me **murtuza.programmer@gmail.com**
-<br>
+### 🛠️ Tech Stack
 
-## GitHub Stats & Trophies
+#### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+| Project | What it is | Links |
+|---|---|---|
+| **Portfolio** | Personal portfolio — Next.js 14, TypeScript, MongoDB, admin panel | [Live](https://portfolio-murtuza-ahmed.vercel.app/) · [Repo](https://github.com/Murtuza-Ahmed/portfolio) |
+| **E-Commerce (Al-ucaaz)** | Full-stack store — React frontend, NestJS backend, Docker + AWS EC2 + CI/CD | [Live](https://e-commerce-frontend-y813.vercel.app/) · [Backend](https://github.com/Murtuza-Ahmed/e-commerce-backend-nestjs) · [Frontend](https://github.com/Murtuza-Ahmed/e-commerce-frontend) |
+| **Todo App** | Task manager — NestJS + TypeORM + Neon PostgreSQL, hosted on AWS EC2 (Nginx + SSL) | [Live](https://todo-app-nestjs-frontend.vercel.app/) · [Repo](https://github.com/Murtuza-Ahmed/todo-app-nestjs) |
+
+---
+
+### 📊 GitHub Stats & Trophies
+
 <p>
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Murtuza-Ahmed&theme=github_dark&radius=10" alt="Murtuza-Ahmed's Activity Graph" />
 </p>
 
-<h3>Connect with me:</h3>
-<!-- START -->
-<a href="https://www.linkedin.com/in/murtuza-ahmed-36012628b/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Murtuza's LinkedIn" target="_blank"/></a>
-  <a href="mailto:murtuza.programmer@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Murtuza's Email"/></a>
-  <a href="https://portfolio-murtuza-ahmed.vercel.app/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
-  <a href="https://wa.me/923492297626"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-<!-- END -->
-
-<h3>Languages and Tools:</h3>
-<!-- START -->
-<h4>Programming Languages</h4>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
-</p>
-<h4>Backend</h4>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
-</p>
-<h4>Database</h4>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-</p>
-<h4>DevOps & Cloud</h4>
-<p></p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-</p>
-<h4>Frontend</h4>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
-</p>
-<h4>Tools</h4>
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-</p>
-<!-- END -->
-
-<p>
- <a href="https://github.com/Murtuza-Ahmed">
+  <a href="https://github.com/Murtuza-Ahmed">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Murtuza-Ahmed&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
@@ -87,6 +99,15 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
+---
+
+### 🤝 Connect with me
+
+<a href="https://www.linkedin.com/in/murtuza-ahmed-36012628b/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Murtuza's LinkedIn" target="_blank"/></a>
+<a href="mailto:murtuza.programmer@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Murtuza's Email"/></a>
+<a href="https://portfolio-murtuza-ahmed.vercel.app/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+<a href="https://wa.me/923492297626"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Murtuza-Ahmed&style=for-the-badge&color=00FFFF" alt="Profile views" />
+</p>
