@@ -82,12 +82,8 @@
 ###  GitHub Stats
 
 <p>
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Murtuza-Ahmed&theme=github_dark&radius=10" alt="Murtuza-Ahmed's Activity Graph" />
-</p>
-
-<p>
   <a href="https://github.com/Murtuza-Ahmed">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murtuza-Ahmed&show_icons=true&theme=github_dark&hide_border=true" alt="Murtuza-Ahmed's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Murtuza-Ahmed&show_icons=true&theme=github_dark&hide_border=true" alt="Murtuza-Ahmed's GitHub Stats" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Murtuza-Ahmed&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
