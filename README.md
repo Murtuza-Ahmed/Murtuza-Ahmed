@@ -14,7 +14,7 @@
   I'm a MERN Stack Developer working with React, Next.js, Node.js, NestJS, PostgreSQL, and MongoDB.
   Beyond building apps, I'm now shipping them end-to-end: Docker containers, AWS EC2 servers,
   Nginx, SSL, and CI/CD pipelines with GitHub Actions. I like solving real-world problems
-  through technology and levelling up every week.
+  through technology and leveling up every week.
 </p>
 
 ---
@@ -22,15 +22,15 @@
 ### 🔭 What I'm doing now
 
 - 🔭 Currently working on **[E-Commerce (Al-ucaaz)](https://e-commerce-frontend-y813.vercel.app/)** — full-stack store with a NestJS backend, now deploying to AWS EC2 via Docker + GitHub Actions CI/CD
-- 🚀 Recently shipped: backend CI/CD pipeline (GitHub Actions → EC2 Docker deploys), Nginx reverse proxy + SSL, and S3 + CloudFront frontend hosting
-- 🌱 Currently learning **Python** (on the road to ML/DL) and **Cybersecurity** (Kali Linux, pentesting fundamentals)
-- 👨‍💻 All of my projects are available at **[portfolio-murtuza-ahmed.vercel.app](https://portfolio-murtuza-ahmed.vercel.app/)**
-- 💬 Ask me about **JavaScript, TypeScript, Next.js, React, Node.js, NestJS, Docker, AWS, MongoDB, PostgreSQL**
-- 📫 Reach me at **murtuza.programmer@gmail.com**
+-  Recently shipped: backend CI/CD pipeline (GitHub Actions → EC2 Docker deploys), Nginx reverse proxy + SSL, and S3 + CloudFront frontend hosting
+-  Currently learning **Python** (on the road to ML/DL) and **Cybersecurity** (Kali Linux, pentesting fundamentals)
+-  All of my projects are available at **[portfolio-murtuza-ahmed.vercel.app](https://portfolio-murtuza-ahmed.vercel.app/)**
+-  Ask me about **JavaScript, TypeScript, Next.js, React, Node.js, NestJS, Docker, AWS, MongoDB, PostgreSQL**
+-  Reach me at **murtuza.programmer@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 #### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -71,7 +71,7 @@
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 | Project | What it is | Links |
 |---|---|---|
@@ -81,7 +81,7 @@
 
 ---
 
-### 📊 GitHub Stats & Trophies
+###  GitHub Stats & Trophies
 
 <p>
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Murtuza-Ahmed&theme=github_dark&radius=10" alt="Murtuza-Ahmed's Activity Graph" />
@@ -101,7 +101,7 @@
 
 ---
 
-### 🤝 Connect with me
+###  Connect with me
 
 <a href="https://www.linkedin.com/in/murtuza-ahmed-36012628b/"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Murtuza's LinkedIn" target="_blank"/></a>
 <a href="mailto:murtuza.programmer@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Murtuza's Email"/></a>
